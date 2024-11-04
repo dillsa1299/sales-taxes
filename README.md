@@ -1,6 +1,6 @@
-#MAM Pre-Interview Assessment
+**MAM Pre-Interview Assessment**
 
-#Purpose
+**Purpose**
 The pre-assessment is a small programming assignment that you will be expected to complete prior to your interview.
 The core objectives of the pre-interview assignment are:
 ● to acquire an understanding of your basic coding style and approach.
@@ -8,23 +8,23 @@ The core objectives of the pre-interview assignment are:
 ● to ascertain your understanding of object-oriented programming concepts.
 ● to form part of a discussion at your interview.
 
-#Project Constraints
+**Project Constraints**
 You are free to undertake this project using any of the following:
 ● .NET Framework/Core, C#.
 ● Blazor, Angular, React, HTML / CSS, JavaScript.
 If you’re applying for a .NET role then it is expected that you undertake some .NET programming elements in your
 solution.
 
-#Core Expectations
+**Core Expectations**
 Your solution will require some sort of input. You are free to provide any mechanism for feeding input into your solution
 (for example mock data provided from within a unit test).
 You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly
 against the supplied test data.
 
 ------------------------------------------------------------------------------------------------------------------------------
-#Assignment
+**Assignment**
 
-#Problem Statement: Sales Taxes
+**Problem Statement: Sales Taxes**
 Basic tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import
 duty is an additional tax applicable on all imported goods at a rate of 5%, with no exceptions.
 When I purchase items I receive a receipt which lists the name of all the items and their price (including tax), finishing
